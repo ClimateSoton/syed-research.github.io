@@ -10,7 +10,7 @@ excerpt: "Advancing CO₂ utilisation, chemical looping, and sustainable thermoc
 ---
 <div style="text-align:center; padding: 40px 0;">
 
-  <img src="/assets/images/logo.png" alt="CLIMATE Logo" width="220" style="margin-bottom:20px;">
+  <img src="/assets/images/logo-crest.png" alt="CLIMATE Crest Logo" width="260" style="margin-bottom:20px;">
 
   <h1 style="font-size:2.2em; margin-bottom:10px;">
     CLIMATE Research Group
