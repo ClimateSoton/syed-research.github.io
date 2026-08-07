@@ -16,16 +16,16 @@ The CLIMATE Research Group contributes to chemical looping, CO₂ utilisation, t
 
 ## Featured Publications
 
-### Abbas, S.Z., de Leeuwe, C., Amieiro, A., Poulston, S., & Spallina, V. (2024)
+Abbas, S.Z., de Leeuwe, C., Amieiro, A., Poulston, S., & Spallina, V. (2024)  
 Experimental assessment of reverse water gas shift integrated with chemical looping for low‑carbon fuels. *Journal of CO₂ Utilization*, 83, 102775.
 
-### de Leeuwe, C., Abbas, S.Z., Amieiro, A., Poulston, S., & Spallina, V. (2023)
+de Leeuwe, C., Abbas, S.Z., Amieiro, A., Poulston, S., & Spallina, V. (2023)  
 Carbon‑neutral and carbon‑negative chemical looping processes using glycerol and methane as feedstock. *Fuel*, 129001.
 
-### Argyris, P.A., De Leeuwe, C., Abbas, S.Z., et al. (2022)
+Argyris, P.A., De Leeuwe, C., Abbas, S.Z., et al. (2022)  
 Chemical looping reforming for syngas generation at real process conditions in packed bed reactors: an experimental demonstration. *Chemical Engineering Journal*, 134883.
 
-### Abbas, S.Z., Dupont, V., & Mahmud, T. (2017)
+Abbas, S.Z., Dupont, V., & Mahmud, T. (2017)  
 Kinetics study and modelling of steam methane reforming over NiO/Al₂O₃ catalyst. *International Journal of Hydrogen Energy*, 42(5), 2889–2903.
 
 ---
