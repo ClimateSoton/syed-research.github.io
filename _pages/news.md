@@ -4,7 +4,9 @@ layout: single
 permalink: /news/
 toc: false
 author_profile: false
+classes: no-author
 ---
+
 
 # News
 
