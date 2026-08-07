@@ -58,22 +58,36 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Syed-Zaheer-Abbas"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Dr Syed Zaheer Abbas"
+  avatar : "/assets/images/syed.jpg"   # optional – add your photo here
+  bio    : "School of Chemistry and Chemical Engineering, University of Southampton. Research in chemical looping, Ca–Cu looping, hydrogen production, CO₂ capture, and reactor modelling."
+
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:s.z.abbas@soton.ac.uk"
+
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar"
+      url: "https://scholar.google.com/citations?user=UmP3K1cAAAAJ&hl=en"
+
+    - label: "University Profile"
+      icon: "fas fa-university"
+      url: "https://www.southampton.ac.uk/people/62bw6h/doctor-syed-zaheer-abbas"
+
+    - label: "ORCID"
+      icon: "ai ai-orcid"
+      url: "https://orcid.org/0000-0002-8783-8572"
+
+    - label: "ResearchGate"
+      icon: "ai ai-researchgate"
+      url: "https://www.researchgate.net/"
+
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/syed-zaheer-abbas-387609148/"
+academicons: true
+
 
 footer:
   links:
