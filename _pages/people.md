@@ -17,7 +17,7 @@ The CLIMATE Research Group brings together researchers working across thermochem
 ## Principal Investigator
 
 ### Dr. Syed Zaheer Abbas  
-(assets/images/Syed.jpg)
+assets/images/Syed.jpg
 **Founder & Lead Investigator, CLIMATE Research Group**  
 [Google Scholar](https://scholar.google.co.uk/citations?hl=en&user=UmP3K1cAAAAJ&view_op=list_works&sortby=pubdate)  
 [University Profile](https://www.southampton.ac.uk/people/62bw6h/doctor-syed-zaheer-abbas)
