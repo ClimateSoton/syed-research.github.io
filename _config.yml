@@ -60,8 +60,7 @@ plugins:
 author:
   name   : "Dr Syed Zaheer Abbas"
   avatar : "/assets/images/Syed.jpg"   # optional – add your photo here
-  bio    : "School of Chemistry and Chemical Engineering, University of Southampton. 
-  Research in chemical looping, Ca–Cu looping, hydrogen production, CO₂ capture and Utilisation, and reactor modelling."
+  bio    : "School of Chemistry and Chemical Engineering, University of Southampton."
 
   links:
     - label: "Email"
