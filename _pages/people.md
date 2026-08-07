@@ -17,6 +17,7 @@ The CLIMATE Research Group brings together researchers working across thermochem
 ## Principal Investigator
 
 ### Dr. Syed Zaheer Abbas  
+![Dr Syed Zaheer Abbas](assets/images/people/syed.jpg)
 **Founder & Lead Investigator, CLIMATE Research Group**  
 [Google Scholar](https://scholar.google.co.uk/citations?hl=en&user=UmP3K1cAAAAJ&view_op=list_works&sortby=pubdate)  
 [University Profile](https://www.southampton.ac.uk/people/62bw6h/doctor-syed-zaheer-abbas)
@@ -52,6 +53,7 @@ If you are interested in joining the group, please reach out via the **Contact**
 ## PhD Researchers
 
 ### Adnan Akhtar  
+![Adnan Akhtar](assets/images/people/adnan.jpg)
 **PhD Researcher (3rd Year)**  
 [Google Scholar](https://scholar.google.co.uk/citations?user=raYhhRYAAAAJ&hl=en&oi=ao)
 
@@ -65,7 +67,8 @@ He is currently in the third year of his PhD.
 
 ---
 
-### Fahad Maqbool  
+### Fahad Maqbool 
+![Fahad Maqbool](assets/images/people/fahad.jpg)
 **PhD Researcher (1st Year)**  
 [Google Scholar](https://scholar.google.co.uk/citations?user=v7cztUwAAAAJ&hl=en&oi=ao)
 
@@ -124,3 +127,31 @@ We collaborate with researchers across:
 - Energy systems modelling  
 
 Collaborations are welcome — please get in touch.
+## Join Us
+
+We are always looking for motivated researchers to join the CLIMATE Research Group at the University of Southampton. Opportunities exist for:
+
+- PhD positions  
+- Postdoctoral research roles  
+- MSc dissertation projects  
+- Undergraduate research placements  
+
+### What We Look For
+We welcome applicants with backgrounds in:
+
+- Chemical engineering  
+- Materials science  
+- Mechanical engineering  
+- Energy systems  
+- Computational modelling  
+- Thermochemical reactor design  
+
+### How to Apply
+If you are interested in joining the group:
+
+- Visit the **Contact** page  
+- Email Dr. Syed Zaheer Abbas  
+- Include your CV and a short statement of research interests  
+
+We encourage applications from candidates passionate about **chemical looping**, **CO₂ utilisation**, **high‑temperature materials**, and **sustainable energy systems**.
+
