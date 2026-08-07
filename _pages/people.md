@@ -17,7 +17,6 @@ The CLIMATE Research Group brings together researchers working across thermochem
 ## Principal Investigator
 
 ### Dr. Syed Zaheer Abbas  
-assets/images/Syed.jpg
 **Founder & Lead Investigator, CLIMATE Research Group**  
 [Google Scholar](https://scholar.google.co.uk/citations?hl=en&user=UmP3K1cAAAAJ&view_op=list_works&sortby=pubdate)  
 [University Profile](https://www.southampton.ac.uk/people/62bw6h/doctor-syed-zaheer-abbas)
@@ -53,7 +52,6 @@ If you are interested in joining the group, please reach out via the **Contact**
 ## PhD Researchers
 
 ### Adnan Akhtar  
-![Adnan Akhtar](assets/images/people/adnan.jpg)
 **PhD Researcher (3rd Year)**  
 [Google Scholar](https://scholar.google.co.uk/citations?user=raYhhRYAAAAJ&hl=en&oi=ao)
 
@@ -68,7 +66,6 @@ He is currently in the third year of his PhD.
 ---
 
 ### Fahad Maqbool 
-![Fahad Maqbool](assets/images/people/fahad.jpg)
 **PhD Researcher (1st Year)**  
 [Google Scholar](https://scholar.google.co.uk/citations?user=v7cztUwAAAAJ&hl=en&oi=ao)
 
