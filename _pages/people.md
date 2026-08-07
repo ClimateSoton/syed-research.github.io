@@ -16,17 +16,21 @@ The CLIMATE Research Group brings together researchers working across thermochem
 
 ## Principal Investigator
 
-### Dr. Syed  
+### Dr. Syed Zaheer Abbas  
 **Founder & Lead Investigator, CLIMATE Research Group**  
-Dr. Syed leads research on chemical looping, CO₂ utilisation, high‑temperature reaction engineering, and industrial decarbonisation. His work spans materials development, reactor design, and multi‑scale modelling of thermochemical systems.
+[Google Scholar](https://scholar.google.co.uk/citations?hl=en&user=UmP3K1cAAAAJ&view_op=list_works&sortby=pubdate)  
+[University Profile](https://www.southampton.ac.uk/people/62bw6h/doctor-syed-zaheer-abbas)
+
+Dr. Syed Zaheer Abbas leads research on **chemical looping**, **CO₂ utilisation**, **high‑temperature reaction engineering**, and **industrial decarbonisation**. His work spans materials development, reactor design, and multi‑scale modelling of thermochemical systems.
 
 Research interests include:
 
 - Chemical looping combustion & reforming  
 - CO₂ capture and utilisation  
-- High‑temperature materials  
+- High‑temperature materials and redox chemistry  
 - Thermochemical fuel production  
 - CFD modelling of multiphase reactors  
+- Kinetics and reaction engineering of thermochemical systems
 
 ---
 
