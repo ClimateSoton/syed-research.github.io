@@ -5,7 +5,9 @@ permalink: /publications/
 toc: true
 toc_label: "Publication Years"
 toc_icon: "book"
+author_profile: false
 ---
+
 
 # Publications
 
