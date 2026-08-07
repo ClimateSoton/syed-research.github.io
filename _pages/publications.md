@@ -122,6 +122,78 @@ This page lists all peer‑reviewed journal articles authored or co‑authored b
 *Modelling of high purity H₂ production via sorption‑enhanced chemical looping steam reforming of methane.*  
 **Fuel**, 202, 271–286 (2017).
 
+## Featured Publications
+
+### Abbas, S.Z., de Leeuwe, C., Amieiro, A., Poulston, S., & Spallina, V. (2024)  
+**Experimental assessment of reverse water gas shift integrated with chemical looping for low‑carbon fuels**  
+*Journal of CO₂ Utilization*, 83, 102775.  
+A key demonstration of RWGS–chemical looping integration for low‑carbon fuel production.
+
+### de Leeuwe, C., Abbas, S.Z., Amieiro, A., Poulston, S., & Spallina, V. (2023)  
+**Carbon‑neutral and carbon‑negative chemical looping processes using glycerol and methane as feedstock**  
+*Fuel*, 129001.  
+A major contribution to negative‑emissions chemical looping pathways.
+
+### Argyris, P.A., De Leeuwe, C., Abbas, S.Z., et al. (2022)  
+**Chemical Looping Reforming for syngas generation at real process conditions**  
+*Chemical Engineering Journal*, 134883.  
+One of the first real‑condition CLR demonstrations in packed‑bed reactors.
+
+### Abbas, S.Z., Dupont, V., & Mahmud, T. (2017)  
+**Kinetics study and modelling of steam methane reforming over NiO/Al₂O₃ catalyst**  
+*International Journal of Hydrogen Energy*, 42(5), 2889–2903.  
+A foundational modelling study widely cited in SMR kinetics research.
+
+## Book Chapters
+
+### Abbas, S.Z., Maqbool, F., & Bhutta, M.K. (2025)  
+**Gasification processes in membrane reactors**  
+In *Current Trends and Future Developments on (Bio)-Membranes*, Elsevier.  
+A comprehensive chapter covering membrane‑integrated gasification processes for clean energy.
+
+## Conference Papers (Oral Presentations)
+
+### Abbas, S.Z., Bloom, R., Dupont, V., Mahmud, T., & Milne, S.J. (2015)  
+Packed bed chemical looping and sorption‑enhanced steam reforming research at Leeds.  
+6th High Temperature Solid Looping Cycles Conference, Politecnico di Milano, Italy.
+
+### Abbas, S.Z., Dupont, V., & Mahmud, T. (2016)  
+Modelling of packed bed sorption‑enhanced steam reforming (SE‑SMR).  
+UKCCSRC Biannual Meeting, Manchester, UK.
+
+### Maqbool, F., & Abbas, S.Z.  
+Modelling of one‑dimensional heterogeneous steam methane reforming.  
+3rd International Conference on Engineering Sciences, University of the Punjab, Lahore.
+
+### Abbas, S.Z., Dupont, V., & Mahmud, T. (2018)  
+Small‑scale H₂ production via sorption‑enhanced chemical looping steam reforming.  
+AIChE Annual Meeting, Pittsburgh, USA.
+
+### Abbas, S.Z., Argyris, P.A., Fernández, J.R., Abanades, J.C., & Spallina, V. (2021)  
+A Ca–Cu chemical loop process for CO₂ capture in steel mills: System performance analysis.  
+GHGT‑15, 15–18 March 2021.
+
+### Abbas, S.Z., Sukma, M.S., Zheng, Y., Scott, S., & Spallina, V. (2022)  
+H₂ production with inherent CO₂ capture via a three‑step chemical looping process using Ca–Fe oxygen carriers.  
+6th International Conference on Chemical Looping, Zaragoza, Spain.
+
+### Abbas, S.Z., Fernández, J.R., Amieiro, A., Rastogi, M., Brandt, J., & Spallina, V. (2022)  
+Lab‑scale demonstration of CaCu chemical looping for hydrogen production and CO₂ capture.  
+GHGT‑16, Lyon, France.
+
+### C4U Project Team including Abbas, S.Z. (2022)  
+Advanced carbon capture for steel industries integrated in CCUS clusters.  
+GHGT‑16, Lyon, France.
+
+### Abbas, S.Z. (2024)  
+Experimental assessment of RWGS integrated with chemical looping for low‑carbon fuels.  
+7th International Conference on Chemical Looping, Banff, Canada.
+## Poster Presentations
+
+### Abbas, S.Z., Dupont, V., Mahmud, T., Milne, S.J., Adiya, Z.I.S.G., & Bloom, R. (2016)  
+Novel materials and reforming process routes for producing ready‑separated CO₂/N₂/H₂ from natural gas feedstocks.  
+UKCCSRC Call Projects Showcase Poster Reception, London.
+
 **Abbas, S.Z., Dupont, V., & Mahmud, T.**  
 *Modelling of H₂ production in a packed bed reactor via sorption‑enhanced steam methane reforming.*  
 **International Journal of Hydrogen Energy**, 42(30), 18910–18921 (2017).
