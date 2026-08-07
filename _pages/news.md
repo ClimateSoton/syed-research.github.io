@@ -3,7 +3,7 @@ title: "News"
 layout: single
 permalink: /news/
 toc: false
-author_profile: true
+author_profile: false
 ---
 
 # News
